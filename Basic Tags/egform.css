@@ -1,0 +1,24 @@
+.parent{
+    width: 60%;
+    min-height: 800px;
+    background-color: rgb(58, 180, 221);
+    margin: auto;
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-evenly;
+}
+.address{
+    width: 90%;
+    height: 15%;
+    background-color: aliceblue;
+}
+label{
+    color: rgb(242, 245, 243);
+}
+h1{
+    color: blueviolet;
+}
+.addr{
+    width: 90%;
+    height: 15%;
+}

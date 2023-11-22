@@ -1,0 +1,17 @@
+.parent{
+    width: 60%;
+    min-height: 700px;
+    background-color: rgb(58, 180, 221);
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.child{
+    border: 2px solid black;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    background-color: bisque;
+}

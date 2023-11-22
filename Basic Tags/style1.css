@@ -1,0 +1,34 @@
+.parent{
+    width: 70%;
+    min-height:700px;
+    border: 2px solid black;
+}
+.child{
+    margin: 30px;
+    height: 150px;
+    border: 2px solid rgb(241, 7, 7);
+}
+
+
+.bg-danger{
+    width: 65%;
+    background-color: rgb(255, 255, 255);
+}
+h4{
+    padding-left: 100px;
+    margin-top: 80px;
+    padding-top: 40px;
+}
+.bg-info{
+    width: 35%;
+    background-color: aqua;
+    
+}
+.bg-primary{
+    width: 40%;
+    background-color: rgb(196, 255, 213);
+}
+.bg-warning{
+    width: 50%;
+    background-color: burlywood;
+}
